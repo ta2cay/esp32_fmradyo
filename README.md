@@ -67,6 +67,4 @@ Bu projeyi derlemek için Arduino IDE kullanabilirsiniz. Aşağıdaki kütüphan
 
 ---
 
-**Yasal Uyarı:** Bu proje eğitim amaçlıdır.
-
 *Proje sahibi: [AMATÖR RADYOCULUK VE SWL REHBERİ](https://www.youtube.com/@AMATORRADYOCULUKVESWLREHBERI)*
